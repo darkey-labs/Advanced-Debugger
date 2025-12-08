@@ -25,8 +25,8 @@ debug = AdvDEBUG.define('title of your debug')
 Debug category has created. Now, we can interact with it.
 
 Arguments:
-title (STRING) || REQUIRED: Title OR name of category
-activated (BOOLEAN), DEFAULT True: Is activated a category
+title (STRING) || REQUIRED: Title OR name of category;
+activated (BOOLEAN), DEFAULT True: Is activated a category;
 notify (BOOLEAN), DEFAULT False: Notificates when category disactivated and tryed to call OUTPUT function
 
 **Configure existing category**
