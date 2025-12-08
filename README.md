@@ -38,7 +38,9 @@ Haves same args like `define`.
 Show debug text.
 
 To print, use:
+```python
 debug.type('text')
+```
 
 Available types:
 `INFO`, `ERROR`, `WARN`
