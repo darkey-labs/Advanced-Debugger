@@ -37,8 +37,14 @@ Haves same args like `define`.
 **Print**
 Show debug text.
 
+To print, use:
+debug.type('text')
+
+Available types:
+`INFO`, `ERROR`, `WARN`
+
 Arguments:
 text (STRING) || REQUIRED: Text to shown.
 
 **PYPI lastest version:**
-https://pypi.org/project/advdbg/0.1.1
+https://pypi.org/project/advdbg/0.1.6
