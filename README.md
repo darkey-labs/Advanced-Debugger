@@ -8,14 +8,22 @@ Welcome to the official GitHub page of module.
 
 **DOCUMENTATION OF MODULE**
 
-**Get Started**
-Install module to your environment with using following PIP command:
+<img width="1492" height="790" alt="image" src="https://github.com/user-attachments/assets/042beddc-0e1d-43f0-81d9-03a1d3441e51" />
+**Get started**
+
+Install module if not maked it yet:
 ```bash
-pip install advdbg 
+pip install advdbg
 ```
-And import it to your Python code:
+And optional you can check did you have module:
+```bash
+pip show advdbg
+```
+(Should return data of ADVDBG module).
+
+Import module to code:
 ```python
-from advdbg import AdvDEBUG
+from advdbg import AdvDBG
 ```
 
 **Create new category**
