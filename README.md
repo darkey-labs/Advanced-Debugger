@@ -1,6 +1,8 @@
 # Advanced-Debugger
 Debug simple module for Python.
 
+<img width="1440" height="700" alt="image" src="https://github.com/user-attachments/assets/90dbbd17-e817-4d55-a170-55f5e14d7a51" />
+
 Welcome to the official GitHub page of module.
 
 **DOCUMENTATION OF MODULE**
