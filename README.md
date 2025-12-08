@@ -45,8 +45,8 @@ debug.type('text')
 Available types:
 `INFO`, `ERROR`, `WARN`
 
-Arguments:
-text (STRING) || REQUIRED: Text to shown.
+<img width="1440" height="450" alt="image" src="https://github.com/user-attachments/assets/3ff2aee0-6cc2-4c2c-94b8-6ad5accd99fd" />
+
 
 **PYPI lastest version:**
 https://pypi.org/project/advdbg/0.1.6
