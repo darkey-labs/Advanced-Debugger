@@ -11,4 +11,4 @@ Debug simple module for Python.
 Welcome to the official GitHub page of module.
 
 **PYPI lastest version:**
-https://pypi.org/project/advdbg/0.1.7
+https://pypi.org/project/advdbg/0.2.0
