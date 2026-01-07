@@ -1,3 +1,7 @@
+
+
+<img width="998" height="444" alt="image" src="https://github.com/user-attachments/assets/f1e2273e-3985-4444-ae57-57d702804002" />
+
 # Advanced-Debugger
 Debug simple module for Python.
 
@@ -5,10 +9,7 @@ Debug simple module for Python.
 🌱 Actual: Will upgrade in future.
 ```
 
-<img width="1440" height="700" alt="image" src="https://github.com/user-attachments/assets/17e37940-10cf-47bd-8406-d9364a14b6d4" />
-
-
 Welcome to the official GitHub page of module.
 
 **PYPI lastest version:**
-https://pypi.org/project/advdbg/0.2.0
+https://pypi.org/project/advdbg/0.2.6
