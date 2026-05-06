@@ -6,7 +6,7 @@
 Debug simple module for Python.
 
 ```text
-🌱 Actual: Will upgrade in future.
+🥀 Paused
 ```
 
 Welcome to the official GitHub page of module.
